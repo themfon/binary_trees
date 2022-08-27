@@ -1,6 +1,5 @@
 #include "binary_trees.h"
 
-
 /**
  * binary_trees_ancestor - finds the lowest common ancestor of two nodes
  * @first: is a pointer to the first node
